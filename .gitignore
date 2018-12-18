@@ -1,0 +1,12 @@
+*jpeg
+*.o
+data/*
+!data/ddsm/
+data/ddsm_large/
+*.h5
+*.json
+src/models/
+*.swp
+experiments/
+data/augmented_data
+
